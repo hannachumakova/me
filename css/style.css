@@ -96,7 +96,7 @@ body {
 
 .main {
   background-color: #f7f7f7;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.05), rgba(234, 234, 234, 0.8)), url(../img/main.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.05), rgba(234, 234, 234, 0.8)), url(../img/main3.jpg);
   height: 95vh;
   background-size: cover;
   background-position: top;
@@ -224,7 +224,7 @@ div.social{
   }
   .feature-box {
     font-size: 2rem;
-    font-weight: 300;
+    /*font-weight: 300;*/
   }
 }
 
@@ -236,7 +236,8 @@ div.social{
     animation: moveInRight 1s ease-out;
   }
   .feature-box {
-    font-size: 1.5rem;
-    font-weight: 300;
+    font-size: 2rem;
+    /*font-size: 1.5rem;*/
+    /*font-weight: 300;*/
   }
 }
